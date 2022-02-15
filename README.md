@@ -5,4 +5,4 @@ Hi
 
 [Website](https://hmpf.club)
 
-[Donate](https://cash.hmpf.club)
+[Donate](https://hmpf.club/cash/)
