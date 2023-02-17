@@ -4,5 +4,3 @@ Hi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steve-0628)](https://github.com/anuraghazra/github-readme-stats)
 
 [Website](https://hmpf.club)
-
-[Donate](https://hmpf.club/cash/)
